@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Bodoni+Moda:opsz@6..96&family=Comfortaa:wght@300&family=MonteCarlo&display=swap');
+
+// ========== Global ========== //
+// Font and Line Height //
+$global-font-family:Comfortaa, Bodoni Moda, Bad Script, cursive, system-ui, -apple-system, Segoe UI, Roboto, Emoji, Helvetica, Arial, sans-serif;
+$global-font-size: 18px;
+$global-font-weight: 400;
+$global-line-height: 1.5rem;
+
+// Color of the background
+$global-background-color: #F9D6D4;
+$global-background-color-dark: #46404D;
+
+// Color of the text
+$global-font-color: #878383;
+$global-font-color-dark: #dcb4b4;
+
+// Color of the secondary text
+$global-font-secondary-color: #46404D;
+$global-font-secondary-color-dark: #F9D6D4;
+
+// Color of the link
+$global-link-color: #7A666E;
+$global-link-color-dark: #E6B5B8;
+
+// Color of the hover link
+$global-link-hover-color: #7A666E;
+$global-link-hover-color-dark: #C7969A;
+
+// Color of the border
+$global-border-color: #f0f0f0;
+$global-border-color-dark: #363636;
+// ========== Global ========== //
+
+// ========== Header ========== //
+// Height of the header
+$header-height: 4.5rem ;
+
+// Font family and size of the header title and color
+$header-title-font-family: 'MonteCarlo', cursive;
+$header-title-font-size: 2.6rem;
+
+// Color of the header background
+$header-background-color: #E6B5B8 ;
+$header-background-color-dark: #685058 ;
+
+// Color of the hover header item
+$header-hover-color: #161209 ;
+$header-hover-color-dark:#FFC0CB ;
+// ========== Header ========== //
+
+// ========== Single Content ========== //
+// Color of the single link
+$single-link-color: #906469;
+$single-link-color-dark: #A7767C ;
+// ========== Single Content ========== //
+
+// ========== Pagination ========== //
+// Color of the link in pagination
+$pagination-link-color: #906469 ;
+$pagination-link-color-dark: #A7767C ;
+// ========== Pagination ========== //

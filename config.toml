@@ -1,0 +1,78 @@
+baseURL = 'http://example.org/'
+title = 'Bienvenue sur celiales.fr'
+theme = "LoveIt"
+
+# language code ["en", "zh-CN", "fr", "pl", ...]
+languageCode = "en"
+# language name ["English", "简体中文", "Français", "Polski", ...]
+languageName = "English"
+
+# Author config
+[author]
+  name = "Célia Alessandrini"
+  email = "contact@celiales.fr"
+  link = "https://celiales.fr"
+
+[params]
+  [params.social]
+    GitHub = "Naduril"
+    Linkedin = "celia-alessandrinifantin"
+    Twitter = "Naduryl"
+
+  [params.home]
+    [params.home.profile]
+      avatarURL = "images/avatar.jpeg" 
+      title = "Hi, welcome to Célia Alessandrini's website, celiales.fr"
+      subtitle = "I hope you will find what you are looking for."
+
+  # Header config
+  [params.header]
+    # desktop header mode ["fixed", "normal", "auto"]
+    desktopMode = "fixed"
+    # mobile header mode ["fixed", "normal", "auto"]
+    mobileMode = "auto"
+    [params.header.title]
+    name = "Célia Alessandrini"
+
+  # Footer config
+
+  [params.footer]
+    enable = true
+    custom = ""
+    hugo = false
+    copyright = true
+    author = true
+    since = 2022
+    license= ""
+
+      
+# Menu config
+[menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+  [[menu.main]]
+    weight = 2
+    identifier = "about"
+    name = "About"
+    url = "/about/about"
+       # title will be shown when you hover on this menu link
+    title = "About me"
+   [[menu.main]]
+    weight = 3
+    identifier = "CV"
+    name = "Resume"
+    url = "/resume/"
+       # title will be shown when you hover on this menu link
+    title = "Resume"
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
