@@ -59,7 +59,7 @@ languageName = "English"
     weight = 2
     identifier = "about"
     name = "About"
-    url = "/about/about"
+    url = "/about/"
        # title will be shown when you hover on this menu link
     title = "About me"
    [[menu.main]]
