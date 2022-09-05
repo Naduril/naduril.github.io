@@ -10,8 +10,8 @@ languageName = "English"
 
 # Author config
 [author]
-  name = "Célia Alessandrini"
-  email = "contact@celiales.fr"
+  name = "Célia"
+  email = "---@celiales.fr"
   link = "https://celiales.fr"
 
 [params]
@@ -39,10 +39,10 @@ languageName = "English"
 
   [params.footer]
     enable = true
-    custom = ""
+    custom = "Célia Alessandrini"
     hugo = false
     copyright = true
-    author = true
+    author = false
     since = 2022
     license= ""
 
