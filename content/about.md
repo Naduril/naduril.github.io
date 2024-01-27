@@ -8,7 +8,7 @@ featuredImage: "featured-image.jpg"
 
 Welcome.
 
-I am Celia Alessandrini. I am a 27 years old student. I'm about to start study programmation in october 2022 at the school ETNA. 
+I am Naduril, a 28 years old IT student. I'm about to start study programmation in october 2022 at school in Paris. 
 
 I don't know how yet, but I will try to do some blogging content about my journey from noob to maybe front end developper. Or maybe video games developper. Or a cybersecurity profession... Hard to make a choice at the moment...!
 

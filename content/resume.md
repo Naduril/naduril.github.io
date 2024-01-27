@@ -1,6 +1,6 @@
 ---
 title: "My resume"
-draft: false
+draft: true # hide this page from the public for now 
 description: "This is the part where I write again a lot about me"
 featuredImage: "CV_Alessandrini_Celia_2022_09.jpg"
 ---

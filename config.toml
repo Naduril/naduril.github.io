@@ -3,27 +3,25 @@ title = 'Bienvenue sur celiales.fr'
 description = "personal website"
 theme = "LoveIt"
 
-# language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
-# language name ["English", "简体中文", "Français", "Polski", ...]
 languageName = "English"
 
 # Author config
 [author]
-  name = "Célia"
-  email = "---@celiales.fr"
+  name = "Naduril"
+  #email = "---@celiales.fr"
   link = "https://celiales.fr"
 
 [params]
   [params.social]
     GitHub = "Naduril"
-    Linkedin = "celia-alessandrinifantin"
+    #Linkedin = "celia-alessandrinifantin"
     Twitter = "Naduryl"
 
   [params.home]
     [params.home.profile]
       avatarURL = "images/avatar.jpeg" 
-      title = "Hi, welcome to Célia Alessandrini's website, celiales.fr"
+      title = "Hi, welcome to my personal website!"
       subtitle = "I hope you will find what you are looking for."
 
   # Header config
@@ -33,13 +31,13 @@ languageName = "English"
     # mobile header mode ["fixed", "normal", "auto"]
     mobileMode = "auto"
     [params.header.title]
-    name = "Célia Alessandrini"
+    name = "Naduril"
 
   # Footer config
 
   [params.footer]
     enable = true
-    custom = "Célia Alessandrini"
+    custom = "Naduril"
     hugo = false
     copyright = true
     author = false
